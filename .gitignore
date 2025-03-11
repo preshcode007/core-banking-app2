@@ -12,3 +12,4 @@ terraform.tfvars.json
 *.key
 *.crt
 aws-credentials
+values.yaml
